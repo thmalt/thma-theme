@@ -11,12 +11,12 @@ A Visual Studio Code theme
 
 #### [Marketplace](https://marketplace.visualstudio.com/items?itemName=thma.thma-theme)
 
-#### [Repository](https://github.com/thmarust/thma-theme)
+#### [Repository](https://github.com/thmalt/thma-theme)
 
 ## Screenshots
 
 - ### Dark
 
-![Dark](https://cdn.jsdelivr.net/gh/thmarust/thma-theme@latest/assets/theme-dark.png)
+![Dark](https://cdn.jsdelivr.net/gh/thmalt/thma-theme@latest/assets/theme-dark.png)
 
-![Golang](https://cdn.jsdelivr.net/gh/thmarust/thma-theme@latest/screenshots/dark/golang.png)
+![Golang](https://cdn.jsdelivr.net/gh/thmalt/thma-theme@latest/screenshots/dark/golang.png)
